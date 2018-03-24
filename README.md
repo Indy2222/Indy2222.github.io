@@ -1,2 +1,3 @@
-# Indy2222.github.io
-My personal webpage
+# Martin Indra's personal web-site
+
+See [mgn.cz](https://mgn.cz/).
