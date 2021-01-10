@@ -1,0 +1,107 @@
+{
+  "configVersion": 1,
+  "timestamp": 1610312429979,
+  "index": "https://mgn.cz/nur/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://mgn.cz/nur/favicon.ico",
+        "https://mgn.cz/nur/index.html",
+        "https://mgn.cz/nur/main.987a21cf3fbf1c083368.js",
+        "https://mgn.cz/nur/manifest.webmanifest",
+        "https://mgn.cz/nur/polyfills.bf99d438b005d57b2b31.js",
+        "https://mgn.cz/nur/runtime.3afa0d051af8d6e80d8f.js",
+        "https://mgn.cz/nur/styles.4c5e470f37f43bea8f07.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://mgn.cz/nur/assets/devices.min.css",
+        "https://mgn.cz/nur/assets/devices.min.css~",
+        "https://mgn.cz/nur/assets/icons/icon-128x128.png",
+        "https://mgn.cz/nur/assets/icons/icon-144x144.png",
+        "https://mgn.cz/nur/assets/icons/icon-152x152.png",
+        "https://mgn.cz/nur/assets/icons/icon-192x192.png",
+        "https://mgn.cz/nur/assets/icons/icon-384x384.png",
+        "https://mgn.cz/nur/assets/icons/icon-512x512.png",
+        "https://mgn.cz/nur/assets/icons/icon-72x72.png",
+        "https://mgn.cz/nur/assets/icons/icon-96x96.png",
+        "https://mgn.cz/nur/assets/images/IMG_7715.png",
+        "https://mgn.cz/nur/assets/images/bad.png",
+        "https://mgn.cz/nur/assets/images/distance.png",
+        "https://mgn.cz/nur/assets/images/duration.png",
+        "https://mgn.cz/nur/assets/images/good.png",
+        "https://mgn.cz/nur/assets/images/medium.png",
+        "https://mgn.cz/nur/assets/images/walk_hvezda.png",
+        "https://mgn.cz/nur/assets/images/walk_nadrz.png",
+        "https://mgn.cz/nur/bad.a10ecb8a4ac6d9800cc8.png",
+        "https://mgn.cz/nur/good.520a2e412e9c34bbe515.png",
+        "https://mgn.cz/nur/medium.4177de4d163875a8a510.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "https://mgn.cz/nur/assets/devices.min.css": "3861321fd6b9ea3f543b823d8a2c57b248710a24",
+    "https://mgn.cz/nur/assets/devices.min.css~": "3861321fd6b9ea3f543b823d8a2c57b248710a24",
+    "https://mgn.cz/nur/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "https://mgn.cz/nur/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "https://mgn.cz/nur/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "https://mgn.cz/nur/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "https://mgn.cz/nur/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "https://mgn.cz/nur/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "https://mgn.cz/nur/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "https://mgn.cz/nur/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "https://mgn.cz/nur/assets/images/IMG_7715.png": "a4976f1bc1ebab6bae2bc44b7ed39543e1772899",
+    "https://mgn.cz/nur/assets/images/bad.png": "8e778b0cad2114bb22a2a856fb3995eb757ec81b",
+    "https://mgn.cz/nur/assets/images/distance.png": "63123544e8ec96d30c419709243595d93b55881b",
+    "https://mgn.cz/nur/assets/images/duration.png": "5491af674d71d3eaa0a6878a1508e37f73ab8fcc",
+    "https://mgn.cz/nur/assets/images/good.png": "3ffa6ef116a45ab91aedd9bf0f59da3ad0282738",
+    "https://mgn.cz/nur/assets/images/medium.png": "878d3842b7108960e9c2099c9f1b7482300d8dc9",
+    "https://mgn.cz/nur/assets/images/walk_hvezda.png": "9d0c4a697d863a1c448116595c882c4c21eb24d4",
+    "https://mgn.cz/nur/assets/images/walk_nadrz.png": "6b7eb97a5fa85de9ef9bb278dd421ac0d01a3825",
+    "https://mgn.cz/nur/bad.a10ecb8a4ac6d9800cc8.png": "8e778b0cad2114bb22a2a856fb3995eb757ec81b",
+    "https://mgn.cz/nur/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "https://mgn.cz/nur/good.520a2e412e9c34bbe515.png": "3ffa6ef116a45ab91aedd9bf0f59da3ad0282738",
+    "https://mgn.cz/nur/index.html": "f2ae6b9199ce78d80c43ac75fab53160cb4de8fa",
+    "https://mgn.cz/nur/main.987a21cf3fbf1c083368.js": "2beb37f8cfec15b0be2e146407b09f5b5f482ec2",
+    "https://mgn.cz/nur/manifest.webmanifest": "84e29f55900317ffa87fb331dbc086aec7e5b908",
+    "https://mgn.cz/nur/medium.4177de4d163875a8a510.png": "878d3842b7108960e9c2099c9f1b7482300d8dc9",
+    "https://mgn.cz/nur/polyfills.bf99d438b005d57b2b31.js": "763cd3b34dfa4600ebb9d9588ec7116988e98920",
+    "https://mgn.cz/nur/runtime.3afa0d051af8d6e80d8f.js": "2043c75718314889308ccb37248d99641088b8e7",
+    "https://mgn.cz/nur/styles.4c5e470f37f43bea8f07.css": "bb38a70dd0ceab0d0c4db77c0ce0d1b25f076cc2"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
