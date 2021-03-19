@@ -1,0 +1,73 @@
+#+title: Martin Indra
+#+author: Martin Indra
+
+* Personal Info
+
++ Name: Martin Indra
++ Year of Birth: 1992
++ Nationality: Czech
++ Location: Prague, Czech Republic
++ E-mail Address: martin.indra at mgn dot cz
+
+* Objective
+
+Software engineering role focusing on cross-disciplinary problems, including
+cloud computing, machine learning, statistical data analysis and
+bioinformatics.
+
+* Education
+
+** Faculty of Electrical Engineering, Czech Technical University in Prague
+
++ Finished with Master's degree in Bioinformatics
++ Finished: 01/2021
++ Diploma Thesis: [[https://mgn.cz/introns.pdf][Automatic Intron Detection in Metagenomes Using Neural Networks]]
+
+** Faculty of Electrical Engineering, Czech Technical University in Prague
+
++ Finished with Bachelor's degree in Software Systems
++ Finished: 01/2015
+
+* Professional Experience
+
+** Datamole
+
++ 02/2019 -- now
++ Contributions & Responsibilities:
+  + Team Leader of Machine Learning Engineering Team
+  + Software Architect
++ Web: https://www.datamole.ai/
+
+** SpaceKnow
+
++ 10/2014 -- 02/2019
++ Contributions & Responsibilities:
+  + Overall platform architecture and [[https://docs.spaceknow.com/][REST API]] design and documentation.
+  + Leading and on-boarding other developers.
+  + Code review, pair programming, test automation, DevOps.
+  + Python, Google Cloud Platform, Redis, NoSQL, Kubernetes, …
+  + Fully automated, on-demand processing of millions of mega-pixels of optical
+    and radar data on thousands of CPU cores with advanced CV algorithms
+    including deep neural networks.
+
+** Nangu TV
+
++ 06/2012 -- 11//2014
++ Contributions & Responsibilities:
+  + Analysis and implementation of IPTV set-top boxes front-end using
+    JavaScript.
+
+** Hewlett-Packard
+
++ Parts of 2010 and 2011
++ Part-time job during high school summer breaks
++ Development of cloud software for companies using J2EE and HTML5.
+
+* Skills
+
++ Languages: Czech (Native), English (C2 CEFR), Italian (B1 CEFR)
++ Programming: Python, Rust, C#, TypeScript, …
++ Cloud:
+  + Google Cloud Platform (very good)
+  + Microsoft Azure (very good)
+  + Amazon Web Services (limited experience)
